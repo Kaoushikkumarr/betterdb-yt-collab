@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+uv.lock
+UNKNOWN.egg-info
+__pycache__
+.venv
+.env
